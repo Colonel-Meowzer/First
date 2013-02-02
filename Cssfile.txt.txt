@@ -7,3 +7,7 @@ I dont think so
 So here is a funny story:
 
 This is an edit from a sub branch
+
+And here is the final edits we are going to merge
+
+And certainly this edit is no exception
