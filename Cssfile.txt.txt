@@ -5,5 +5,12 @@ Github is kind of cool actually!
 I dont think so
 
 So here is a funny story:
+
 What is going on here?
-Can't do this any longer
+
+This is an edit from a sub branch
+
+And here is the final edits we are going to merge
+
+And certainly this edit is no exception
+
